@@ -111,7 +111,3 @@
     </tr>
   </tbody>
 </table>
-</div></div></div><div class="fe-block fe-block-0889ab7fba4b77946082" style="mix-blend-mode: normal;"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" id="block-0889ab7fba4b77946082"><div class="sqs-block-content">
-
-<div class="sqs-html-content">
-  <h3 style="white-space:pre-wrap;"><strong>关于最佳图像生成器比较</strong></h3><p class="" style="white-space:pre-wrap;">为了进行良好的比较，我们对每个工具使用了相同的相对宽泛的文本到图像提示：</p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--darkAccent"><strong>创建一张两个人相互对视的图片，一个是AI机器人，另一个是女性。背景是太空，氛围是友好的。</strong></span></p><p class="" style="white-space:pre-wrap;">通常我们会推荐这种简单的文本公式作为输入：</p><p class="" style="white-space:pre-wrap;"><strong>风格</strong> + <strong>主题</strong></p><p class="" style="white-space:pre-wrap;">如果你心中有更具体的图片，你应该添加</p><p class="" style="white-space:pre-wrap;"><strong>+ 背景 + 色彩板 + 其他元素</strong>&nbsp;</p><p class="" style="white-space:pre-wrap;">但我们在提示中省略了风格，因为我们很好奇每个工具的默认风格选择会是什么。</p><p class="" style="white-space:pre-wrap;">为了让你自己直接比较，我们在下面紧挨着每个工具的深入评估添加了所有生成的图片。</p><p class="" style="white-space:pre-wrap;">显然我们测试了大而著名的玩家，如Midjourney、Dream
