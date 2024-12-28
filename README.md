@@ -7,39 +7,7 @@
 
 
   
-  
 
-
-
-</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1728654731309_17425"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1728654731309_17425"><div class="sqs-block-content"><style>
-  /* 表格样式 */
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-  }
-  th {
-    background-color: #40E0D0; /* 中等绿松石色 */
-    color: white;
-    padding: 10px;
-  }
-  td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-  /* Pro和Con列等宽 */
-  th:nth-child(2),
-  th:nth-child(3),
-  td:nth-child(2),
-  td:nth-child(3) {
-    width: 25%; /* 根据需要调整宽度 */
-  }
-
-  /* 可点击工具名称下划线 */
-  a {
-    text-decoration: underline;
-  }
-</style>
 
 <table>
   <thead>
